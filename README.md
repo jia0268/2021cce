@@ -3,7 +3,7 @@
 # 大標題
 ## 小標題
 
-![狗](dog.jpg)
+![dog.jpg](dog.jpg)
 
 markdown語法
 
