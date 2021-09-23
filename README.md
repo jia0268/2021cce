@@ -3,8 +3,6 @@
 # 大標題
 ## 小標題
 
-![dog.jpg](dog.jpg)
-
 markdown語法
 
 ```C
