@@ -33,10 +33,10 @@ int main()
 int main()
 {
     int a;
-    printf( "��J�@�ӼƦr: " );
+    printf( "輸入一個數字: " );
 
     scanf(  "%d" , &a );
-    printf( "�A����J���O:%d", a);
+    printf( "你剛剛輸入的是:%d", a);
 }
 ```
 ## week03-5
